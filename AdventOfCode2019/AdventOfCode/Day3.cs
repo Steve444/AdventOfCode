@@ -162,8 +162,8 @@ namespace AdventOfCode
 
         private Point getEndPoint(Point start, string move)
         {
-            string direction = Strings.Left(move, 1);
-            int stride = Int32.Parse(Strings.Mid(move, 2));
+            string direction = move.Substring(0,1);
+            int stride = Int32.Parse(move.Substring(1));
             switch (direction)
             {
                 case "R":
