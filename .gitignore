@@ -6,5 +6,6 @@
 /.vs
 /AdventOfCode2019/.vs/AdventOfCode/v16
 /AdventOfCode2019/AdventOfCode/bin/Debug/netcoreapp3.0
+/AdventOfCode2019/AdventOfCode/bin/Debug/netcoreapp2.2
 /AdventOfCode2019/AdventOfCode/bin
 /AdventOfCode2019/AdventOfCode/obj
